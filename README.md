@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm PathToLife, a Software Engineer / Computer Scientist, more the former.
 
-Here are my hobby projects across Full Stack, Data Science, Unity, Arduino, and Raspberri PI. I love tinkering with new tech all the time!
+Here are my hobby projects across Full Stack, Data Science, Unity, Arduino, and RaspberryPi. I love tinkering with new tech all the time!
 
 I also love travelling, hiking, anime, and space!
 
