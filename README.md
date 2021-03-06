@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PathToLife/pathtolife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 I'm PathToLife, a Freelance Dev.
+
+Here are my hobby projects across Full Stack, Data Science, Unity, Arduino, and Raspberri PI, I love tinkering.
+
+I also love, travelling, hiking, anime, and space!
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallowigi&theme=radical)
