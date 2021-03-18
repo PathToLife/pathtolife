@@ -23,4 +23,4 @@ I also love travelling, hiking, anime, and space!
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mallowigi&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PathToLife&theme=radical)
