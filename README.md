@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm PathToLife, a Software Engineer / Computer Scientist, more the former.
 
-Here are my hobby projects across Full Stack, Data Science, Unity, Arduino, and RaspberryPi. I love tinkering with new tech all the time!
+Here are my hobby projects across FullStack, DataScience, Unity, and RaspberryPi/Arduino. I love tinkering with new tech all the time!
 
 I also love travelling, hiking, anime, and space!
 
@@ -24,3 +24,6 @@ I also love travelling, hiking, anime, and space!
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PathToLife&theme=onedark)
+^ + Typescript, like tons of typescript :)
+
+Simple code is friendly to everyone, the narrow and true path is best :)
