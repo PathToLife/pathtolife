@@ -24,6 +24,7 @@ I also love travelling, hiking, anime, and space!
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PathToLife&theme=onedark)
+
 ^ + Typescript, like tons of typescript :)
 
 Simple code is friendly to everyone, the narrow and true path is best :)
