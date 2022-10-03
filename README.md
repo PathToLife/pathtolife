@@ -23,4 +23,4 @@ I also love travelling, hiking, and space!
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
 
-Simple code is friendly to everyone, the narrow and true path is best :)
+Simple code is friendly to everyone, picking a well trodden path.. most of the time :)
