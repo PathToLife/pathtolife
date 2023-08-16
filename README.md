@@ -21,6 +21,6 @@ I also love travelling, hiking, and space!
 
 🔭 I’m currently working on... a project that we might release after :)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PathToLife&theme=algolia)
 
 Simple code is friendly to everyone, picking a well trodden path.. most of the time :)
