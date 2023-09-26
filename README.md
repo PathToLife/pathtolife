@@ -21,6 +21,8 @@ I also love travelling, hiking, and space!
 
 🔭 I’m currently working on... a project that we might release after :)
 
-![Trophies]([https://github-profile-trophy.vercel.app/?username=PathToLife&theme=algolia](https://raw.githubusercontent.com/PathToLife/pathtolife/2595d2ae31476b3fb83f985a82d5b272897319a4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d50617468546f4c696665267468656d653d616c676f6c6961.svg)https://raw.githubusercontent.com/PathToLife/pathtolife/2595d2ae31476b3fb83f985a82d5b272897319a4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d50617468546f4c696665267468656d653d616c676f6c6961.svg)
+![Trophies](68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d50617468546f4c696665267468656d653d616c676f6c6961.svg)
+
+
 
 Simple code is friendly to everyone, picking a well trodden path.. most of the time :)
