@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm PathToLife, a Software Engineer / Computer Scientist, more the former.
 
-Here are my projects (at least public ones) and OpenSource Projects where I'm a code contributor across Full Stack, Data Science, Native Applications, and IoT Devices. I tinker with new tech all the time!
+Here are my projects (at least public ones) and notable OpenSource Projects where I'm a code contributor across Full Stack, Data Science, Native Applications, and IoT Devices. I tinker with new tech all the time!
 
 I also love travelling, hiking, and space!
 
