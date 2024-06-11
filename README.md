@@ -21,6 +21,6 @@ I also love travelling, hiking, and space!
 
 🔭 I’m currently working on... a project that we might release after :)
 
-![Trophies](18-may-2024.svg)
+![Trophies](11-jun-2024.svg)
 
 Simple code is friendly to everyone, picking a well trodden path.. most of the time :)
